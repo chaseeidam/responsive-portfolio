@@ -268,7 +268,7 @@ input[type=submit] {
   }
 
   .work {
-    width: 50%;
+    width: 47%;
   }
 
   .auth-image {
@@ -292,6 +292,10 @@ input[type=submit] {
 
   .container {
     max-width: 100%;
+  }
+
+  .work {
+    width: 100%;
   }
 
   .auth-image {
